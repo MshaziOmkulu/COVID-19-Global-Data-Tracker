@@ -1,8 +1,6 @@
 # COVID-19-Global-Data-Tracker
 
 
-# COVID-19 Global Data Tracker
-
 ## Project Description
 This project tracks global COVID-19 data using Python. It loads, analyzes, and visualizes pandemic data to provide insights into case trends, vaccination progress, and regional impacts.
 
